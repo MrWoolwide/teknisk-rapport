@@ -6,7 +6,6 @@ int test=0;
 void setup()
 {
   pinMode(2, INPUT_PULLUP);
-  pinMode(5, INPUT_PULLUP);
   pinMode(4, INPUT_PULLUP);
   pinMode(11, OUTPUT);
   pinMode(12, OUTPUT);
