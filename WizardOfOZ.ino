@@ -1,5 +1,6 @@
 //på grunn av simplisiteten skrives ikke mange komentarer. koden tar inn 0 state fra knapp en, 2 state fra knapp to og en tre state fra knapp en og to sammen.
 //dette ble gjort ved at to knapper er enklere å skjule en tre
+//NOTE: denne ble lagd på svært kort tid og er derfor ikke optimalisert med egene void funksjoner
 int gron = 0;
 int blaa = 0;
 int test=0;
